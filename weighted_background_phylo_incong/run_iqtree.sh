@@ -1,0 +1,16 @@
+~/programs/iqtree-2.1.3-Linux/bin/iqtree2 -m HKY -nt 2 -bb 1000 -s groupA.L.fasta -o MN908947.3 --prefix groupA.L
+~/programs/iqtree-2.1.3-Linux/bin/iqtree2 -m HKY -nt 2 -bb 1000 -s groupA.R.fasta -o MN908947.3 --prefix groupA.R
+~/programs/iqtree-2.1.3-Linux/bin/iqtree2 -m HKY -nt 2 -bb 1000 -s groupB.L.fasta -o MN908947.3 --prefix groupB.L
+~/programs/iqtree-2.1.3-Linux/bin/iqtree2 -m HKY -nt 2 -bb 1000 -s groupB.R.fasta -o MN908947.3 --prefix groupB.R
+~/programs/iqtree-2.1.3-Linux/bin/iqtree2 -m HKY -nt 2 -bb 1000 -s groupC.L.fasta -o MN908947.3 --prefix groupC.L
+~/programs/iqtree-2.1.3-Linux/bin/iqtree2 -m HKY -nt 2 -bb 1000 -s groupC.R.fasta -o MN908947.3 --prefix groupC.R
+~/programs/iqtree-2.1.3-Linux/bin/iqtree2 -m HKY -nt 2 -bb 1000 -s groupD.L.fasta -o MN908947.3 --prefix groupD.L
+~/programs/iqtree-2.1.3-Linux/bin/iqtree2 -m HKY -nt 2 -bb 1000 -s groupD.R.fasta -o MN908947.3 --prefix groupD.R
+~/programs/iqtree-2.1.3-Linux/bin/iqtree2 -m HKY -nt 2 -bb 1000 -s CAMC-CB7AB3.L.fasta -o MN908947.3 --prefix CAMC-CB7AB3.L
+~/programs/iqtree-2.1.3-Linux/bin/iqtree2 -m HKY -nt 2 -bb 1000 -s CAMC-CB7AB3.R.fasta -o MN908947.3 --prefix CAMC-CB7AB3.R
+~/programs/iqtree-2.1.3-Linux/bin/iqtree2 -m HKY -nt 2 -bb 1000 -s CAMC-CBA018.L.fasta -o MN908947.3 --prefix CAMC-CBA018.L
+~/programs/iqtree-2.1.3-Linux/bin/iqtree2 -m HKY -nt 2 -bb 1000 -s CAMC-CBA018.R.fasta -o MN908947.3 --prefix CAMC-CBA018.R
+~/programs/iqtree-2.1.3-Linux/bin/iqtree2 -m HKY -nt 2 -bb 1000 -s MILK-103C712.L.fasta -o MN908947.3 --prefix MILK-103C712.L
+~/programs/iqtree-2.1.3-Linux/bin/iqtree2 -m HKY -nt 2 -bb 1000 -s MILK-103C712.R.fasta -o MN908947.3 --prefix MILK-103C712.R
+~/programs/iqtree-2.1.3-Linux/bin/iqtree2 -m HKY -nt 2 -bb 1000 -s QEUH-1067DEF.L.fasta -o MN908947.3 --prefix QEUH-1067DEF.L
+~/programs/iqtree-2.1.3-Linux/bin/iqtree2 -m HKY -nt 2 -bb 1000 -s QEUH-1067DEF.R.fasta -o MN908947.3 --prefix QEUH-1067DEF.R

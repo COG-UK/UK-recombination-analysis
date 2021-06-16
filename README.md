@@ -54,8 +54,8 @@ It is organised into the following subdirectories (in alphabetical order), which
 
 `weighted background`
 
-- scripts to generated and analyse the weighted random sample of background (non-recombinant) sequences from the UK
+- scripts to generate and analyse the weighted random sample of background (non-recombinant) sequences from the UK
 
 `weighted_background_phylo_incong`
 
-- scripts for running the phylogenetic incongruence analysis and the resulting phylogenetic trees
+- scripts for running the phylogenetic incongruence analysis, and the resulting phylogenetic trees
